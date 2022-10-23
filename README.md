@@ -1,2 +1,2 @@
 # selenium
-this is the project in which i practice with Cucumber, Page Object and Page Factory 
+This is a project in which I practiced writing autotests using Cucumber, Page Object and Page Factory 
